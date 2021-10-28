@@ -1,1 +1,2 @@
 # Swift Design Pattern
+Singleton
